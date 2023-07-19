@@ -1,0 +1,27 @@
+_repo: Les-angoysses-douloureuses-qui-procedent-damours_71225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crenne, Helisenne de
+    gutenberg_agent_id: '56130'
+    url: http://www.gutenberg.org/2009/agents/56130
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71225'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=XCJlA1zoRt8C
+pgterms:marc905: 20211206035313crenne
+pgterms:marc906: '1539'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aFrance :$bDenys de Harsy, $c1539.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les angoysses douloureuses qui procedent damours
+url: http://www.gutenberg.org/ebooks/71225
