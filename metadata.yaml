@@ -1,11 +1,16 @@
 _repo: Les-angoysses-douloureuses-qui-procedent-damours_71225
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71225-h/images/cover.jpg
 creator:
   author:
     agent_name: Crenne, Helisenne de
     gutenberg_agent_id: '56130'
     url: http://www.gutenberg.org/2009/agents/56130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71225#Les-angoysses-douloureuses-qui-procedent-damours
 gutenberg_issued: '2023-07-19'
 identifiers:
   gutenberg: '71225'
